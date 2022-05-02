@@ -1,9 +1,8 @@
+![moviedb](https://user-images.githubusercontent.com/89806761/166180885-f785d4e3-7c97-403b-adda-b3b6f645bf39.png)
 # Movies
 This is a movie showcasing app. You can view movie trailers and description. I have also added a link to piratesbay for each movie so that you can easily download the movie torrent.
 
 I have used [moviedb](https://themoviedb.org) api to fetch movies 
-
-![image](src/image/moviedb.png)
 
 ## Available Scripts
 
